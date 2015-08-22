@@ -1,0 +1,4 @@
+services:
+#    yuande_user_user.example:
+#        class: YuandeUser\UserBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
